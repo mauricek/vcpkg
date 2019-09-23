@@ -1,0 +1,5 @@
+Source: qt6-mqtt
+Version: 6.0.0
+Homepage: https://www.qt.io/
+Description: Qt6 MQTT Module.
+Build-Depends: qt6-base

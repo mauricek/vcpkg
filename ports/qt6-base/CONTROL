@@ -1,0 +1,5 @@
+Source: qt6-base
+Version: 6.0.0
+Homepage: https://www.qt.io/
+Description: Qt6 Application Framework Base Module. Includes Core, GUI, Widgets, Networking, SQL, Concurrent and other essential qt components.
+Build-Depends: pcre2, harfbuzz, freetype, openssl, zstd, sqlite3, zlib
